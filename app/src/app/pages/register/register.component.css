@@ -1,0 +1,99 @@
+:host { 
+  display: contents; 
+}
+.register-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #dcf5da;
+}
+.register-text {
+  color: rgb(181, 149, 29);
+  font-size: 120px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 180px;
+  font-weight: 600;
+}
+.register-container1 {
+  gap: 0;
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.register-text1 {
+  align-self: flex-start;
+}
+.register-textinput {
+  width: 329px;
+  height: 40px;
+  align-self: center;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  padding-top: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.register-container2 {
+  gap: 0;
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.register-text2 {
+  align-self: flex-start;
+}
+.register-textinput1 {
+  width: 329px;
+  height: 40px;
+  align-self: center;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  padding-top: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.register-container3 {
+  gap: 0;
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.register-text3 {
+  align-self: flex-start;
+}
+.register-textinput2 {
+  width: 329px;
+  height: 40px;
+  align-self: center;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  padding-top: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.register-navlink {
+  text-decoration: none;
+}
